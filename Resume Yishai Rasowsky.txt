@@ -1,0 +1,48 @@
+Yishai Rasowsky
+Kaf Hachaim 32/1 Beitar Illit, Israel | (972) 54-848-2245 | yishairasowsky@gmail.com                                                                 
+Professional Experience
+Machine and Deep Learning:
+Machine Learning Specialist, SMRTflow – Jerusalem, Israel. November 2019 – Present.
+Entity detection from text and PDF
+High resolution lease contract abstraction.
+Automate tagging and population of fields, e.g. starting/cancellation date, contract type, etc.
+
+Data Science Intern, Cnvrg.io – Jerusalem, Israel. Summer 2019
+Constructed and published python libraries for machine learning algorithms.
+K-means – Supervised and unsupervised clustering.
+LSTM with Keras – Prediction of time series for daily temperature.
+Completed showcase projects using various machine learning algorithms. 
+Implemented product recommendation engine using NLP TF-IDF Vectorizer.
+Created weather forecaster using Facebook's Prophet. 
+How to build a dataset with webscraping using BeautifulSoup.
+Exploratory Data Analysis concerning fraud detection. 
+Composed and compiled explanations of numerous data science concepts
+For “ML Dictionary”, a google chrome app that provides definitions of ML terminology.
+
+Other Fields:
+Administrative Assistant, Kollel Klal, 2017-2018
+Accounting Innovations, Ohr Somayach Kollel, 2013-2017
+Instructor of Talmud and Jewish Law, Yeshivas Ohr Somayach, 2012-2017
+Laboratory Research Fellowship, Electro-optical crystal laser laboratory, Technion Summer 2006
+Laboratory Research Fellowship, Quantum nano-magnetic hysteresis, Amherst, Summer 2005
+Tutor in Math and Science, Amherst College, 2004-2008 
+Education
+Data science and Machine Learning Certificate, IBM, July 2019
+Practiced executing data-driven solutions to increase efficiency and accuracy. Created data regress ion models with visualization using predictive data modeling. Analyzed data mining algorithms to deliver insights. Implemented action-oriented solutions to complex business problems.
+Udacity, Studied Independently Online, May 2018 - January 2019
+Proficient in Python and Github. Knowledgeable in SQL, HTML, CSS, Javascript.
+Technion, Israel Institute of Technology, Haifa Israel, Advanced Physics, Semester 2010
+Ohr Somayach Institutions, Jerusalem, Israel, In-depth analytical study of Talmud, 2008-2017
+Amherst College, Amherst MA, BA in Math and Physics with Honors, 2004-2008
+University of Bristol, Bristol, UK, Advanced Physics, Spring 2007
+Budapest Semesters in Mathematics, Budapest, Hungary, Advanced Mathematics, Fall 2006
+Published Works
+Quantum Thesis Cum Laude: https://www.amherst.edu/media/view/58703/originaSl/jesse_thesis.pdf
+Personal Projects: https://github.com/yishairasowsky/bible_search 
+Additional Skills
+Proficient in Python. Knowledge of HTML, CSS, Javascript, Java, SQL, Excel, Power Point.
+Experience in relational and non-relational database software.
+Fast and Independent Learner, Team Player, Strong communication and writing skills, Industrious, Organized, 
+Excellent work ethic, Innovative/creative, Articulate, Analytical and mathematical approach, Passionate about solid data-driven solutions, Diplomatic, Public Speaking, Teaching.
+
+References available upon request
